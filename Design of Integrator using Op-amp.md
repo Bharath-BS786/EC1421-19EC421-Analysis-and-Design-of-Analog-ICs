@@ -46,7 +46,8 @@ We get , R1 =  and hence Rf =
 
 
 ## MODEL GRAPH
-<img width="1280" height="771" alt="image" src="https://github.com/user-attachments/assets/fbde92fb-5c72-44b9-8205-af4c0d1eb511" />
+<img width="1280" height="776" alt="image" src="https://github.com/user-attachments/assets/b49cc8fe-fa6b-4530-b30d-4b49be3ba977" />
+
 
 <img width="1280" height="968" alt="image" src="https://github.com/user-attachments/assets/930f3d73-222d-418f-be9c-1eed82233f80" />
 
