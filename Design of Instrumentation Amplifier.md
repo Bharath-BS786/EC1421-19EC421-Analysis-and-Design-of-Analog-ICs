@@ -51,11 +51,12 @@ waveforms are plotted in a graph sheet.
 <img width="1280" height="791" alt="image" src="https://github.com/user-attachments/assets/6a55e642-75b5-478e-bdb9-d3d0f3908d99" />
 
 ## CALCULATIONS:
-<img width="929" height="1280" alt="image" src="https://github.com/user-attachments/assets/3b33c022-30ea-4976-a9c1-4ed189f8746a" />
-<img width="1017" height="1280" alt="image" src="https://github.com/user-attachments/assets/11cac50c-8ea4-46ce-8f77-150f39ea15e7" />
 
-## GRAPH:
+<img width="1017" height="1280" alt="image" src="https://github.com/user-attachments/assets/11cac50c-8ea4-46ce-8f77-150f39ea15e7" />
 <img width="1280" height="1234" alt="image" src="https://github.com/user-attachments/assets/196bc267-2fb5-4a4b-a76a-531fb3183588" />
+## GRAPH:
+<img width="929" height="1280" alt="image" src="https://github.com/user-attachments/assets/3b33c022-30ea-4976-a9c1-4ed189f8746a" />
+
 
  ## RESULTS:
  Thus an instrumentation amplifier was constructed and  tested using op
