@@ -59,7 +59,8 @@ Choose  R1 = 1kΩ, Rf=10kΩ
 
 
 ## GRAPH:
-![Uploading image.png…]()
+<img width="1280" height="940" alt="image" src="https://github.com/user-attachments/assets/7315d952-95cb-4f0c-8246-c6a7f00aa978" />
+
 
 ## RESULT:
 Thus the Inverting is designed and their performance was successfully tested using op-amp IC 741. 
