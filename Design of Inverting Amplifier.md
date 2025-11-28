@@ -29,7 +29,6 @@ Choose  R1 = 1kΩ, Rf=10kΩ
 
 
 ## CIRCUIT DIAGRAM:
-<img width="1280" height="727" alt="image" src="https://github.com/user-attachments/assets/701485b2-93a6-4b38-8191-c989bda80851" />
 
  paste your circuit diagram
 
@@ -54,6 +53,7 @@ Choose  R1 = 1kΩ, Rf=10kΩ
  paste your tabulation 
 
 ## CALCULATIONS:
+<img width="1280" height="727" alt="image" src="https://github.com/user-attachments/assets/701485b2-93a6-4b38-8191-c989bda80851" />
 
  <img width="1280" height="559" alt="image" src="https://github.com/user-attachments/assets/b7d46912-2f07-40f0-9c32-0d6f4512e775" />
 
