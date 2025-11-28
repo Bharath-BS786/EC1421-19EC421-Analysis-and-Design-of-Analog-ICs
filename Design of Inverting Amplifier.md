@@ -29,6 +29,7 @@ Choose  R1 = 1kΩ, Rf=10kΩ
 
 
 ## CIRCUIT DIAGRAM:
+<img width="1280" height="744" alt="image" src="https://github.com/user-attachments/assets/fc1a008c-c597-4bfa-a918-27e5b41118b0" />
 
  paste your circuit diagram
 
@@ -48,20 +49,20 @@ Choose  R1 = 1kΩ, Rf=10kΩ
 
    
 ## TABULATION:
-<img width="1280" height="940" alt="image" src="https://github.com/user-attachments/assets/2f15804b-8b39-4d8d-adac-ea2dde058609" />
+ <img width="1280" height="559" alt="image" src="https://github.com/user-attachments/assets/b7d46912-2f07-40f0-9c32-0d6f4512e775" />
 
  paste your tabulation 
 
 ## CALCULATIONS:
 <img width="1280" height="727" alt="image" src="https://github.com/user-attachments/assets/701485b2-93a6-4b38-8191-c989bda80851" />
 
- <img width="1280" height="559" alt="image" src="https://github.com/user-attachments/assets/b7d46912-2f07-40f0-9c32-0d6f4512e775" />
+
 
 
 ## GRAPH:
 
-<img width="1280" height="744" alt="image" src="https://github.com/user-attachments/assets/fc1a008c-c597-4bfa-a918-27e5b41118b0" />
 
+<img width="1280" height="744" alt="image" src="https://github.com/user-attachments/assets/fc1a008c-c597-4bfa-a918-27e5b41118b0" />
 
 ## RESULT:
 Thus the Inverting is designed and their performance was successfully tested using op-amp IC 741. 
