@@ -1,4 +1,4 @@
-<img width="824" height="477" alt="image" src="https://github.com/user-attachments/assets/f9399b55-dc4b-44f2-bb76-96ff6e48f333" />## EC1421-19EC421-Analysis-and-Design-of-Analog-ICs
+## EC1421-19EC421-Analysis-and-Design-of-Analog-ICs
 ## SIMULATION OF INVERTING, NON-INVERTING AND DIFFERENTIAL AMPLIFIER
 ## AIM:
 To Design and simulate a inverting, non- inverting and differential amplifiers using LT-Spice.
@@ -23,6 +23,7 @@ LT-Spice
 <img width="837" height="597" alt="image" src="https://github.com/user-attachments/assets/ed0bc2b3-1de8-46e8-b315-8a3df6a94f8e" />
 
 ### DIFFERENTIAL AMPLIFIER:
+<img width="824" height="477" alt="image" src="https://github.com/user-attachments/assets/f9399b55-dc4b-44f2-bb76-96ff6e48f333" />
 <img width="827" height="396" alt="image" src="https://github.com/user-attachments/assets/eb33da25-9661-4461-a76c-a59f6267f92f" />
 
 
