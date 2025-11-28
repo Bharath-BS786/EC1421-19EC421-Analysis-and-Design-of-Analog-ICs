@@ -31,12 +31,10 @@ Choose  R1 = 1kΩ, Rf=10kΩ
 ## CIRCUIT DIAGRAM:
 <img width="1280" height="744" alt="image" src="https://github.com/user-attachments/assets/fc1a008c-c597-4bfa-a918-27e5b41118b0" />
 
- paste your circuit diagram
 
 ## MODEL GRAPH:
 
- Paste your model graph from observation
-
+ 
 ## PROCEDURE:
  
 1. Select R1 as a constant value and choose a value of Rf.  
@@ -60,8 +58,6 @@ Choose  R1 = 1kΩ, Rf=10kΩ
 
 
 ## GRAPH:
-
-
 <img width="1280" height="744" alt="image" src="https://github.com/user-attachments/assets/fc1a008c-c597-4bfa-a918-27e5b41118b0" />
 
 ## RESULT:
