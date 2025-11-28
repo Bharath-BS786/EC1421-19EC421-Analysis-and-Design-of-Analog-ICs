@@ -33,6 +33,7 @@ LT-Spice
 ### BANDPASS FILTER CIRCUIT DIAGRAM:
 
 
+<img width="1258" height="607" alt="image" src="https://github.com/user-attachments/assets/fd64506c-0099-450e-b79b-5db56226d51e" />
 
 
 
